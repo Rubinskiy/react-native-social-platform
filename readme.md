@@ -4,4 +4,4 @@ A React Native based social platform with an API backend written in PHP connecte
 
 I used Expo for this btw.
 
-<img src="./files/login.jpeg">
+<img src="./files/login.jpeg" style=">
